@@ -8,7 +8,6 @@ int main() {
     int vetor[50];
     int i;
 
-    // Preenche o vetor com números aleatórios entre -50 e 49 para teste
     srand(time(NULL));
     printf("Vetor original (para fins de teste):\n");
     for (i = 0; i < 50; i++) {
