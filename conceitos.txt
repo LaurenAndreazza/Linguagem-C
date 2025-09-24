@@ -1,0 +1,28 @@
+//Opções de comentários: /* */  ou  //
+// \ barra invertida + barra normal
+// \n = nova linha
+
+/* Variáveis: tipos básicos
+
+int - números inteiros
+float - números com ponto flutuante (números reais)
+double - números com ponto flutuante de dupla precisão
+char - caracteres (letras, dígitos, símbolos)
+void - tipo vazio (sem valor)
+
+Como chamar dentro de uma string: 
+- %d ou %i (int), 
+- %f (float), 
+- %lf (double), 
+- %c (char)
+
+*/
+
+/* Operações aritméticas básicas:
+- + (adição)
+- - (subtração)
+- * (multiplicação)
+- / (divisão)
+- % (módulo)
+
+*/

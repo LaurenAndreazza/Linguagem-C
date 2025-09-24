@@ -18,16 +18,38 @@ Como chamar dentro de uma string:
 
 */
 
+/* Operações aritméticas básicas:
+- + (adição)
+- - (subtração)
+- * (multiplicação)
+- / (divisão)
+- % (módulo)
+
+*/
+
+ /* Passos do meu código em C
+1. Incluir bibliotecas -> #include <stdio.h>
+2. Declarar a função principal -> int main()
+4. Finalizar todas as tarefas com ponto e vírgula ;
+5. Retornar 0 -> return 0;
+ 
+ 
+ */
+
+
+
 #include <stdio.h> /* Biblioteca padrão de entrada e saída */
 
 int main() /* Função principal do programa */
 {
-    int idadeMae = 50; // Declaração de uma variável do tipo inteiro chamada 'idadeMae'
-    int idadePai = 55; // Declaração de uma variável do tipo inteiro chamada 'idadePai'
-    int idadeIrmao = 25; // Declaração de uma variável do tipo inteiro
+    float num1 = 5;   
+    float num2 = 2;
 
-printf("Idade da mae: %i\nIdade do pai: %i\nIdade do irmao: %i\n", idadeIrmao, idadePai, idadeMae); 
-// Imprime as idades na tela - é MUITO IMPORTANTE COLOCAR AS VARIAVEIS EM ORDEM, POIS O PROGRAMA VAI LER NA ORDEM QUE FOR COLOCADO
+    float divisão = num2 / num1; 
+
+
+    printf("A divisão de %i por %i é igual a %f\n", num1, num2, divisão);
+    
 
     return 0; // Indica que o programa terminou com sucesso
 }
