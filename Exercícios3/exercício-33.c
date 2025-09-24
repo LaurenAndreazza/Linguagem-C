@@ -1,4 +1,4 @@
-*/Ler um vetor W[1..15] e imprimi-lo na ordem inversa à da leitura. Achar seu menor elemento e dizer quantas vezes ele ocorre no vetor, e em que posições.
+/*Ler um vetor W[1..15] e imprimi-lo na ordem inversa à da leitura. Achar seu menor elemento e dizer quantas vezes ele ocorre no vetor, e em que posições.*/
 
 #include <stdio.h>
 #include <stdlib.h>

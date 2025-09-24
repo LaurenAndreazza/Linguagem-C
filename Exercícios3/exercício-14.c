@@ -1,4 +1,4 @@
-*/Escreva um algoritmo que leia um vetor de 100 posições e mostre-o ordenado em ordem crescente. 
+/*Escreva um algoritmo que leia um vetor de 100 posições e mostre-o ordenado em ordem crescente. */
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,4 +1,4 @@
-*/ Escreva um algoritmo que leia um vetor de 50 posições de números inteiros e mostre somente os positivos com suas respectivas posições. 
+/*Escreva um algoritmo que leia um vetor de 50 posições de números inteiros e mostre somente os positivos com suas respectivas posições*/ 
 
 #include <stdio.h>
 #include <stdlib.h>
