@@ -32,8 +32,7 @@ Como chamar dentro de uma string:
 2. Declarar a função principal -> int main()
 4. Finalizar todas as tarefas com ponto e vírgula ;
 5. Retornar 0 -> return 0;
- 
- 
+
  */
 
 
@@ -45,7 +44,8 @@ int main() /* Função principal do programa */
     float num1 = 5;   
     float num2 = 2;
 
-    float divisão = num2 / num1; 
+    float divisão = num2 /
+     num1; 
 
 
     printf("A divisão de %i por %i é igual a %f\n", num1, num2, divisão);
